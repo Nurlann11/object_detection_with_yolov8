@@ -31,6 +31,7 @@ https://github.com/user-attachments/assets/401ba116-8da1-4ae3-9015-897d3646617e
 ### Image Example
 
 Here is a image example:
+
 ![bears](https://github.com/user-attachments/assets/975bf1ab-fee6-4200-9072-0a201e687dec)
 ![predicted_bears](https://github.com/user-attachments/assets/3ba8d1fb-832b-42e9-8479-58b333d575e4)
 
