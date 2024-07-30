@@ -14,8 +14,9 @@ This project aims to perform object detection on images and videos using YOLOv8.
 
 Here is a video example:
 
+https://github.com/user-attachments/assets/b7089326-d7b3-4616-9d72-0e515fecba36
 <video width="300" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/b7089326-d7b3-4616-9d72-0e515fecba36" type="video/mp4">
+  <source src="" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video width="300" height="360" controls>
