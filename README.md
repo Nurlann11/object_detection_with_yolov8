@@ -15,8 +15,6 @@ This project aims to perform object detection on images and videos using YOLOv8.
 Here is a video example:
 
 https://github.com/user-attachments/assets/b7089326-d7b3-4616-9d72-0e515fecba36
-
-
 https://github.com/user-attachments/assets/401ba116-8da1-4ae3-9015-897d3646617e
 
 
